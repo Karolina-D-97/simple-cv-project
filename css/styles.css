@@ -1,0 +1,96 @@
+
+
+/****************************************TAG SELECTORS***************************************/
+
+body {
+  background-color: #EFFFFD;
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+hr {
+  border-style: none;
+  background-color: white;
+  height: 3px;
+  margin: 50px auto;
+
+}
+
+h1 {
+  color: #42C2FF;
+  margin: 0;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 70px;
+}
+
+h2 {
+  color: #42C2FF;
+  margin: 0;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #42C2FF;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EFFFFD;
+}
+/****************************************CLASS SELECTORS***************************************/
+.first_p {
+  font-size: 35px;
+  margin: 10px 0 0 0;
+}
+
+.top {
+  background-color: #B8FFF9;
+  height: 200px;
+  width: 700px;
+  position: relative;
+  padding: 20px;
+  margin: auto;
+}
+
+.edukacja {
+  width: 700px;
+  margin: 50px auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.hobby {
+  width: 700px;
+  margin: 50px auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills {
+  width: 700px;
+  margin: 50px auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.dino {
+  position: absolute;
+  width: 18%;
+  right: 7%;
+  top: 25%;
+}
+
+.contact {
+  background-color: #B8FFF9;
+  width: 700px;
+  margin: 50px auto 0 auto;
+  position: relative;
+  padding: 10px;
+}
